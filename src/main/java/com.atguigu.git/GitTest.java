@@ -14,6 +14,7 @@ public class GitTest{
         System.out.println("host-test");
         System.out.println("push test!!!!!!");
         System.out.println("pull test pppppppuuuuuuuulllllllll");
+       github项目更新了
     }
 
 }
